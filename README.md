@@ -27,3 +27,11 @@ Contribution are always welcome and recommended! Here is how:
 - Clone to your machine git clone https://github.com/YOUR_USERNAME/login_form.git
 - Make your changes
 - Create a pull request
+# Changelogs
+### Aug 29, 2017
+  **Added**
+  * Verified by W3C
+  * Bootstrap 4 Validation Form
+
+  **Updated**
+  * Bootstrap 4 Version
